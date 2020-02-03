@@ -1,0 +1,7 @@
+#ifndef MYDEFINES_H_INCLUDED
+#define MYDEFINES_H_INCLUDED
+
+
+#define M 2
+
+#endif // MYDEFINES_H_INCLUDED
